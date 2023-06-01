@@ -1,6 +1,6 @@
-import { Container, Row, Col } from "react-bootstrap";
-import Gallery from "../layout/Gallery";
+import { Container, Row, Col } from "../utils/Bootstrap.jsx";
 import Layout from "../layout/AppLayout.jsx";
+import Gallery from "../components/Gallery";
 
 export default function Home() {
 

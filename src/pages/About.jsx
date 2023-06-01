@@ -1,4 +1,5 @@
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col } from "../utils/Bootstrap.jsx";
+
 import Layout from "../layout/AppLayout.jsx";
 
 export default function About() {
